@@ -1,0 +1,7 @@
+opus-fast-mosestokenizer
+librosa
+faster-whisper
+tokenize_uk
+torch
+wtpsplit
+numpy
